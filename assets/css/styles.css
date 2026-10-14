@@ -17,3 +17,11 @@ body {
   color: blue;
   background-color: purple;
 }
+
+div.col {
+    background-color: white;
+}
+
+p {
+    font-size: 25px;
+}
