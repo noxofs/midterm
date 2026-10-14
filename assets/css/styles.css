@@ -20,8 +20,13 @@ body {
 
 div.col {
     background-color: white;
+    padding: 20px;
 }
 
 p {
     font-size: 25px;
+}
+
+a {
+    color: black;
 }
